@@ -1,0 +1,11 @@
+{
+  "name": "Cine a Dois",
+  "short_name": "Cine a Dois",
+  "description": "Assistam filmes juntos à distância.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0f0d16",
+  "theme_color": "#0f0d16",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

@@ -1,0 +1,5 @@
+node_modules
+.env
+test/*.webm
+test/*.mp4
+test/*.png
